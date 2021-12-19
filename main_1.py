@@ -5,7 +5,7 @@ import pyautogui
 import datetime
 
 
-URL = 'https://www.youtube.com'
+URL = 'https://www.youtube.com/Something THAT YOU WANT TO WATCH URL'
 stack = 0
 driver = webdriver.Chrome(executable_path  = 'chromedriver')
 
